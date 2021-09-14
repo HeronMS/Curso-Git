@@ -6,9 +6,11 @@ namespace teste
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Eta eta eta");
-            Console.WriteLine("AAAAAAAAAAAAAAAAAAAAAAA");
+            Console.WriteLine("==============");
+            Console.WriteLine("Olá!");
+            Console.WriteLine("Bom dia!");
+            Console.WriteLine("Boa noite");
+            Console.WriteLine("==============");
         }
     }
 }
